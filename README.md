@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🧊 CryoSPARC → RELION Particle Converter
@@ -702,4 +701,3 @@ This README is:
 - ✅ **Professional** yet approachable tone
 - ✅ **Complete** with installation, usage, troubleshooting, and citation info
 
-Just replace `yourusername` with your actual GitHub username and you're ready to go!
