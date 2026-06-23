@@ -1,5 +1,3 @@
-I'll create a polished, GitHub-ready README for your cryo2relion tool:
-
 ```markdown
 <div align="center">
 
