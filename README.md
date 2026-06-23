@@ -631,9 +631,9 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{cryo2relion_2024,
   title = {CryoSPARC to RELION Particle Converter},
-  author = {Your Name/Lab},
-  year = {2024},
-  url = {https://github.com/yourusername/cryo2relion}
+  author = {Stavros/Carr.Lab},
+  year = {2026},
+  url = {https://github.com/stav-ros/cryo2relion}
 }
 ```
 
@@ -686,9 +686,9 @@ This tool builds on the excellent work of:
 
 **Made with ❤️ for the cryo-EM community**
 
-[⭐ Star this repo](https://github.com/yourusername/cryo2relion) if you find it useful!
+[⭐ Star this repo](https://github.com/stav-ros/cryo2relion) if you find it useful!
 
-[🐛 Report Bug](https://github.com/yourusername/cryo2relion/issues) • [💡 Request Feature](https://github.com/yourusername/cryo2relion/issues) • [💬 Discussions](https://github.com/yourusername/cryo2relion/discussions)
+[🐛 Report Bug](https://github.com/stav-ros/cryo2relion/issues) • [💡 Request Feature](https://github.com/stav-ros/cryo2relion/issues) • [💬 Discussions](https://github.com/stav-ros/cryo2relion/discussions)
 
 </div>
 ```
